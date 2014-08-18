@@ -1,0 +1,8 @@
+	<div class="email-signup form">
+  {% form_for signup %}   
+   {% hidden_field_tag "page_id", page.id %} <div class="form-errors">{% error_messages_for signup %}</div>
+
+    {% email_field "email", class:"text", placeholder:"Email address", required: "required" %}{% submit_tag "Join", class:"submit-button" %}
+	    <div class="form-submit"></div>
+  {% endform_for %}
+</div>

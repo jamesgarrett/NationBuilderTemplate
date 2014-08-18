@@ -1,0 +1,9 @@
+{% form_for signup %} 
+{% error_messages_for signup %}
+
+Sign up for updates
+
+{% text_field “email”, class:“text”, value:“Email Address” %}
+{% submit_tag "", class:“submit” %}
+
+{% endform_for %} 
