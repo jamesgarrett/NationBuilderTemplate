@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"theme",
+				"theme-color-3"
+			],
+			[
+				"them",
+				"theme-color-1"
+			],
+			[
+				"sign",
+				"sign-up-button"
+			],
+			[
+				"theme-color-",
+				"theme-color-2"
+			],
+			[
+				"the",
+				"together"
+			],
+			[
+				"th",
+				"theme-color-6"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"path\": \".\"\n		}\n	]\n}\n",
+			"file": "nb-theme.sublime-project",
+			"file_size": 45,
+			"file_write_time": 1408300775000000,
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/theme.scss",
+			"settings":
+			{
+				"buffer_size": 31667,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/_forms.scss",
+			"settings":
+			{
+				"buffer_size": 5993,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/layout.html",
+			"settings":
+			{
+				"buffer_size": 4737,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\n              <div class=\"social-icons\">\n                <ul class=\"icon-haus\">\n                  <a href=\"#\"><img src=\"http://d3n8a8pro7vhmx.cloudfront.net/themes/5356e6f8ebad646340000001/attachments/original/1400770979/facebook_icon.png?1400770979\" height=\"150px\"width=\"75px\"></a>\n                  <a href=\"#\"><img src=\"http://d3n8a8pro7vhmx.cloudfront.net/themes/5356e6f8ebad646340000001/attachments/original/1400770983/twitter_icon.png?1400770983\" height=\"150px\"width=\"75px\"></a>\n                  <a href=\"#\"><img src=\"http://d3n8a8pro7vhmx.cloudfront.net/themes/5356e6f8ebad646340000001/attachments/original/1400770981/youtube_icon.png?1400770981\" height=\"150px\"width=\"75px\"></a>\n                </ul>\n            </div>",
+			"settings":
+			{
+				"buffer_size": 729,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/tablet-and-desktop.scss",
+			"settings":
+			{
+				"buffer_size": 13750,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/_nav.html",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "garrett-53f0ded62213932634000001/_columns_2.html",
+			"settings":
+			{
+				"buffer_size": 2044,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 189.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntaxhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JamesG/Desktop/architect_agency/nb-template/garrett-53f0ded62213932634000001/theme.scss",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/theme.scss",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/tablet-and-desktop.scss",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/layout.html",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/nb-template/layout.html",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/nb-template/theme.scss",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/nb-template/_variables.scss",
+		"/Users/JamesG/Desktop/architect_agency/nb-template/nb-template/tablet-and-desktop.scss",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/_mobile-nav.scss",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/tablet-and-desktop.scss",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/_columns_2.html",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/_features.html",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/theme.scss",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/_buttons.scss",
+		"/Users/JamesG/Desktop/fsn/fsn_site/garrett-5356ee0a01925b1c75000001/layout.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/theme.scss",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/splash.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/icon_bar.html",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53e14c5901925b0c4f000001/layout.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/tablet-and-desktop.scss",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/layout.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/_columns_2.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/_forms.scss",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53e14c5901925b0c4f000001/_columns_2.html",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53e14c5901925b0c4f000001/theme.scss",
+		"/Users/JamesG/Desktop/:: endorsements slider",
+		"/Users/JamesG/Desktop/architect_agency/default.html",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53e14c5901925b0c4f000001/tablet-and-desktop.scss",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53e14c5901925b0c4f000001/_blog_latest.html",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53df900622139360b1000001/layout.html",
+		"/Users/JamesG/Desktop/crystal stokes/garrett-53df900622139360b1000001/_columns_2.html",
+		"/Users/JamesG/Desktop/karl racine/kr-theme/garrett-53e13288ebad642aa6000001/_blog_latest.html",
+		"/Users/JamesG/Desktop/_blog_latest.html",
+		"/Users/JamesG/Desktop/david buchwald/website_pieces/home-template.php",
+		"/Users/JamesG/Desktop/david buchwald/website_pieces/archive.php",
+		"/Users/JamesG/Desktop/david buchwald/website_pieces/search.php",
+		"/Users/JamesG/Desktop/david buchwald/home-page-template-7-22-copy.php",
+		"/Users/JamesG/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/JamesG/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/JamesG/Sites/buchwald/wp-content/themes/buchwald-theme/index.php",
+		"/Users/JamesG/Sites/buchwald/wp-content/themes/buchwald-theme/footer.php",
+		"/Users/JamesG/Sites/buchwald/wp-content/themes/buchwald-theme/functions.php",
+		"/Users/JamesG/Sites/buchwald/wp-content/themes/buchwald-theme/style.css",
+		"/Users/JamesG/Sites/buchwald/wp-content/themes/buchwald-theme/header.php",
+		"/Users/JamesG/Sites/buchwald/wp-config-sample.php",
+		"/Users/JamesG/Sites/buchwald/wp-config.php",
+		"/Users/JamesG/Desktop/theme.scss",
+		"/Users/JamesG/Desktop/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding: 15px",
+			"padding-bottom",
+			"form",
+			"button",
+			"max-width",
+			"header",
+			"social",
+			".sub",
+			"width:100%",
+			"nav",
+			"social-",
+			"icon",
+			"nav",
+			"#",
+			"width-container",
+			"hover",
+			"main_",
+			".buttonbu",
+			".button",
+			".buttonbu",
+			".features-",
+			".features",
+			"button",
+			"nav",
+			"overflow-y",
+			"scroll",
+			"submi",
+			"header-",
+			"width-",
+			"body",
+			"sign",
+			"body",
+			"form-wr",
+			"form-wrap",
+			"form-wr",
+			"width:50%",
+			"site-",
+			"width-",
+			"1140",
+			"signup",
+			"width-",
+			"submit",
+			"nav",
+			"width-",
+			"bio",
+			"site logo",
+			"button-wi",
+			"donation",
+			"#000",
+			"nav",
+			"donation",
+			"box",
+			"width-",
+			"button",
+			"lighten",
+			"&",
+			"donation",
+			"img",
+			"excer",
+			"rgba(255,255,255,0.85)",
+			"li",
+			"auto",
+			"link_image_to_post",
+			"=",
+			"<?\n/*\n * Template Name: Home\n * Description: A Page Template with a darker design.\n */\nget_header();\n?>\n\n<div class=\"width-container-1\">\n 	<div class=\"body\">\n		<div class=\"width-container-2\">\n\n\n			<div class=\"column-one\">\n\n					<div class=\"content-container-5\">\n\n					  <div id=\"slideshow\">\n						  <!-- <div class=\"slider\">\n							  <a href=\"/buchwald/wordpress/about-david/\"><img src=\"/buchwald/wordpress/wp-content/uploads/2014/07/full_width_feature_3.jpg\" style=\"max-width:100%;max-height:350px;\"></a>\n							  <div class=\"caption\">David has a record of doing what's right, not what's easy.</div>\n						  </div> -->\n\n							<?\n							$slider = get_field('slider-images');\n							foreach ($slider as $img) {\n								jsl($img);\n							}\n							?>\n					  </div>\n					</div>\n\n					  <ul class=\"home-call-to-action\">\n						<div class=\"home-cta-head\"><a href=\"/buchwald/wordpress/how-you-can-help/\">Get Involved! Here is what you can do to help the campaign today:</div>\n						  <li class=\"home-cta-button1\"><a href=\"/buchwald/wordpress/how-you-can-help/volunteer/\">Volunteer</a></li>\n						  <li class=\"cta-button2\"><a href=\"https://secure.actblue.com/entity/fundraisers/28561\">Donate</a></li>	\n						  <li class=\"cta-button3\"><a href=\"/buchwald/wordpress/how-you-can-help/email-sign-up/\">Newsletter Signup</a></li>	\n					  </ul>\n\n			</div>\n\n			<div class=\"column-left\">\n\n						<div class=\"content-container-1\">\n\n							<h1><? the_title(); ?></h1>\n							<hr>\n							<? echo apply_filters('the_content',($post->post_content)); ?>\n						</div>\n\n						<div class=\"content-container-1\">\n							\n							<h1> In The News </h1>\n							<hr>\n							\n							<?\n							// The Query\n							$q = new WP_Query(array(\n								'post_type'      => 'post',\n								'cat'            => 'news',\n								'posts_per_page' => 2     ,\n								'orderby'        => 'date',\n								'order'          => 'DESC',\n							));\n							// The Loop\n							if ( $q->have_posts() ) :\n								while ( $q->have_posts() ) : $q->the_post();\n							?>\n								<ul class=\"news-article\">\n									<li><? the_post_thumbnail(); echo get_post(get_post_thumbnail_id())->post_content; ?></li>\n									<li>\n										<h2>\n											<a href=\"<? the_permalink() ?>\" rel=\"bookmark\" title=\"Permanent Link to <? the_title_attribute(); ?>\"><? the_title(); ?></a>\n										</h2>\n									</li>\n									<li class=\"news-date\" style=\"font-family:'Vollkorn';font-weight: 400;\"><? the_time('F jS, Y') ?></li>\n									<li><? the_excerpt(); ?> </li>\n								</ul>\n							<?\n								endwhile;\n							else :\n							?>\n								<p>\n									<? _e('Sorry, no posts matched your criteria.'); ?>\n								</p>\n							<?\n							endif;\n							/* Restore original Post Data */\n							wp_reset_postdata();\n							?>\n\n							<hr style=\"clear:both;\">\n\n\n							</div>\n\n\n			</div>\n\n			<div class=\"column-right\">\n\n							<div class=\"content-container-2\">\n								<div class=\"fb-like-box\" data-href=\"https://www.facebook.com/votebuchwald\" data-width=\"350\" data-height=\"350\" data-colorscheme=\"light\" data-show-faces=\"true\" data-header=\"false\" data-stream=\"false\" data-show-border=\"false\"></div>	\n							</div>\n			\n							<div class=\"content-container-2\">\n								<a class=\"twitter-timeline\" href=\"https://twitter.com/DavidBuchwald\" data-widget-id=\"487624645378453506\">Tweets by @DavidBuchwald</a>\n								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n							</div>\n			</div>\n\n\n		</div>\n	</div>\n</div>\n\n<?\nget_footer();\n?>",
+			"_e",
+			"<?php",
+			"=>",
+			"order",
+			"$the_query",
+			"head",
+			"h1",
+			"php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"width-container-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nb-theme.sublime-project",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "garrett-53f0ded62213932634000001/theme.scss",
+					"settings":
+					{
+						"buffer_size": 31667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5996,
+								5996
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10547.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "garrett-53f0ded62213932634000001/_forms.scss",
+					"settings":
+					{
+						"buffer_size": 5993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "garrett-53f0ded62213932634000001/layout.html",
+					"settings":
+					{
+						"buffer_size": 4737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2518,
+								2518
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 886.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 729,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "garrett-53f0ded62213932634000001/tablet-and-desktop.scss",
+					"settings":
+					{
+						"buffer_size": 13750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1650,
+								1655
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1541.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "garrett-53f0ded62213932634000001/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								469
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "garrett-53f0ded62213932634000001/_nav.html",
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1177
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "garrett-53f0ded62213932634000001/_columns_2.html",
+					"settings":
+					{
+						"buffer_size": 2044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"ind",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}
